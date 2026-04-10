@@ -12,7 +12,7 @@ Tekoälypohjainen työkalu energia-alan säädösten tulkintaan selkokielellä. 
 Python
 Streamlit
 Claude API (Anthropic)
-
+## Kuvia
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
