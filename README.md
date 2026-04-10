@@ -1,2 +1,3 @@
-# S-ntelytulkki
+# Sääntelytulkki
 Tekoälypohjainen työkalu energia-alan säädösten tulkintaan – Python, Streamlit, Claude API.
+
