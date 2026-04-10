@@ -13,9 +13,9 @@ Python
 Streamlit
 Claude API (Anthropic)
 ## Kuvia
-### Aloitusruutu
+## Aloitusruutu
 ![alt text](image.png)
-### Vastaus
+## Vastaus
 ![alt text](image-1.png)
-### Lähdeviittaukset
+## Lähdeviittaukset
 ![alt text](image-2.png)
