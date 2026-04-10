@@ -123,6 +123,22 @@ Energiaviraston tehtäviin kuuluvat:
         """
     },
     {
+        "id": "tem_energiapolitiikka",
+        "nimi": "TEM – Suomen energia- ja ilmastotiekartta 2035",
+        "kategoria": "TEM-julkaisut",
+        "url": "https://tem.fi/energia-ja-ilmastotiekartta",
+        "sisalto": """
+Työ- ja elinkeinoministeriö – Energia- ja ilmastotiekartta 2035:
+Suomen tavoitteena on hiilineutraalius vuoteen 2035 mennessä. Tiekartta ohjaa 
+energiapolitiikkaa seuraavilla periaatteilla:
+- Uusiutuvan energian osuuden kasvattaminen merkittävästi
+- Energiatehokkuuden parantaminen kaikilla sektoreilla
+- Sähköistymisen edistäminen liikenteessä ja teollisuudessa
+- Energiajärjestelmän joustavuuden lisääminen
+TEM vastaa energia-alan lainsäädännön valmistelusta ja toimeenpanosta Suomessa.
+        """
+    },
+    {
         "id": "kulutusjousto",
         "nimi": "Sähkömarkkinalaki 588/2013 – Kulutusjousto",
         "kategoria": "Sähkömarkkinalaki",
