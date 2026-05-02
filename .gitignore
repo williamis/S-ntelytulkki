@@ -1,0 +1,10 @@
+# Streamlit secrets (sisältää API-avaimet)
+.streamlit/secrets.toml
+
+# Python-välimuistit
+__pycache__/
+*.pyc
+
+# Virtuaaliympäristöt (jos käytät sellaista)
+venv/
+.venv/
